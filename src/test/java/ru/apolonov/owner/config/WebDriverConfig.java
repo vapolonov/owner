@@ -17,5 +17,4 @@ public interface WebDriverConfig extends Config {
     @DefaultValue("https://github.com")
     String getBaseUrl();
 
-
 }
